@@ -1,8 +1,12 @@
-# LFD-Application-of-NN-in-LSTM
+# Applications of Neural Networks with LSTM (Long Short-Term Memory)
 
-Deeep learning topic Long short-term Memory(LSTM) Application and research
-Project Team Members: Kshitij Yelpale(me) and Saﬁr Mohammad Shaikh
+## Project Details:
+This was a research project carried out under a module, **Learning from Data**, in the Master's Course, High Integrity Systems at Frankfurt University of Applied Sciences. We have demonstrated the real-world use of Neural Networks with LSTMs in Sentiment Analysis. We have created several models depicting the same. Please find the project report [here.](Documentation/LSTM_report.pdf)
 
-Frankfurt University of Applied sciences, Master's Course: High Integrity Systems, Subject: Learning from Data (LFD)
+## Project Team Members: 
+Saﬁr Mohammad Shaikh, Kshitij Yelpale
 
-Project is in progress. Soon there will be update and instruction to use it.
+## Technologies Used:
+* Language: Python
+* Libraries: NLTK, Keras, Pandas
+* Documentation: Latex
